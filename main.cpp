@@ -42,3 +42,5 @@ int main()
 
     return 0;
 }
+
+what does this program do?
